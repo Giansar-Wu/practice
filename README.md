@@ -1,2 +1,2 @@
 # practice
-my practice of python
+My practice of python.
